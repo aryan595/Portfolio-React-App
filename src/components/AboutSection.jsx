@@ -27,7 +27,7 @@ export const AboutSection = () => {
                                 Contact Me
                             </a>
                             <a href="/aryan_k_resume2.pdf" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary hover:text-white transition-colors text-center">
-                                Download CV
+                                View My Resume
                             </a>
                         </div>
                     </div>
