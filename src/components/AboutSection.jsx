@@ -26,7 +26,7 @@ export const AboutSection = () => {
                             <a href="#contact" className="cosmic-button">
                                 Contact Me
                             </a>
-                            <a href="notfound" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary hover:text-white transition-colors text-center">
+                            <a href="/aryan_k_resume2.pdf" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary hover:text-white transition-colors text-center">
                                 Download CV
                             </a>
                         </div>
